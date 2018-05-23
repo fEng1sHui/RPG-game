@@ -1,0 +1,41 @@
+/*registration and login forms*/
+.containerForm {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 400px;
+}
+
+/*center on all pages*/
+.center {
+	text-align:center;
+}
+
+/*player.php attributes circle buttons +*/
+.btn-outline-success {
+  color: #28a745;
+  background-color: transparent;
+  background-image: none;
+  border-color: #28a745;
+  /*player.php circle settings*/
+  border:1px solid #28a745;
+  height:40px; 
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width:40px;
+}
+.btn-success:hover {
+  color: #fff;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+/*player.php gray blocks (locations)*/
+.btn-secondary {
+  color: #fff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
